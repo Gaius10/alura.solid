@@ -1,0 +1,8 @@
+{
+  "name": "gaius10/alura-solid",
+  "autoload": {
+    "psr-4": {
+      "Alura\\Solid\\": "src/"
+    }
+  }
+}
